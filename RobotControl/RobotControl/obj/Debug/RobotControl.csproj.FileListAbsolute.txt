@@ -1,0 +1,18 @@
+c:\users\acer\documents\visual studio 2013\Projects\RobotControl\RobotControl\bin\Debug\RobotControl.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\RobotControl\RobotControl\bin\Debug\RobotControl.exe
+c:\users\acer\documents\visual studio 2013\Projects\RobotControl\RobotControl\bin\Debug\RobotControl.pdb
+c:\users\acer\documents\visual studio 2013\Projects\RobotControl\RobotControl\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2013\Projects\RobotControl\RobotControl\obj\Debug\RobotControl.Form1.resources
+c:\users\acer\documents\visual studio 2013\Projects\RobotControl\RobotControl\obj\Debug\RobotControl.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2013\Projects\RobotControl\RobotControl\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2013\Projects\RobotControl\RobotControl\obj\Debug\RobotControl.exe
+c:\users\acer\documents\visual studio 2013\Projects\RobotControl\RobotControl\obj\Debug\RobotControl.pdb
+C:\Programming\RobotControl\RobotControl\bin\Debug\RobotControl.exe.config
+C:\Programming\RobotControl\RobotControl\obj\Debug\RobotControl.exe
+C:\Programming\RobotControl\RobotControl\obj\Debug\RobotControl.pdb
+C:\Programming\RobotControl\RobotControl\bin\Debug\RobotControl.exe
+C:\Programming\RobotControl\RobotControl\bin\Debug\RobotControl.pdb
+C:\Programming\RobotControl\RobotControl\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+C:\Programming\RobotControl\RobotControl\obj\Debug\RobotControl.Form1.resources
+C:\Programming\RobotControl\RobotControl\obj\Debug\RobotControl.Properties.Resources.resources
+C:\Programming\RobotControl\RobotControl\obj\Debug\RobotControl.csproj.GenerateResource.Cache
